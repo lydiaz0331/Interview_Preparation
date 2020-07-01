@@ -2,7 +2,7 @@
 Materials used to prepare job interviews:
 
 ### 1. [Books](https://github.com/lydiaz0331/Interview_Preparation/blob/master/Books.md)
-### 2. SQL: SQL practice questions can be found in [Leetcode](https://leetcode.com/) which includes SQL question asked by big companies such as Google, Facebook and Amazon.
+### 2. SQL: [SQL practice questions](https://github.com/lydiaz0331/LeetCodePractice_SQL/blob/master/README.md) can be found in [Leetcode](https://leetcode.com/) which includes SQL question asked by big companies such as Google, Facebook and Amazon.
 ### 3. How to find a job as a DA/DS in the US as an international employee?
 * [new grads湾区DA/DS找工作超细致回顾+面经+资料总结!!!](https://www.1point3acres.com/bbs/thread-469408-1-1.html)
 * [data science面试准备资料](https://www.1point3acres.com/bbs/thread-588040-1-1.html)
